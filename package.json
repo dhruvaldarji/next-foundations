@@ -33,7 +33,7 @@
     "e2e": "nx e2e next-foundations-e2e"
   },
   "dependencies": {
-    "next": "~15.2.3",
+    "next": "~15.5.10",
     "react": "19.0.0",
     "react-dom": "19.0.0"
   },
@@ -49,7 +49,7 @@
     "@nx/next": "20.6.1",
     "@nx/playwright": "20.6.1",
     "@nx/workspace": "20.6.1",
-    "@playwright/test": "^1.36.0",
+    "@playwright/test": "^1.58.2",
     "@swc-node/register": "~1.9.1",
     "@swc/core": "~1.5.7",
     "@swc/helpers": "~0.5.11",
